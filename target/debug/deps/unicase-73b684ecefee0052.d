@@ -1,0 +1,10 @@
+/Users/mariusmidtskogen/Documents/GitHub/eksamen2024/target/debug/deps/libunicase-73b684ecefee0052.rmeta: /Users/mariusmidtskogen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.1/src/lib.rs /Users/mariusmidtskogen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.1/src/ascii.rs /Users/mariusmidtskogen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.1/src/unicode/mod.rs /Users/mariusmidtskogen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.1/src/unicode/map.rs
+
+/Users/mariusmidtskogen/Documents/GitHub/eksamen2024/target/debug/deps/libunicase-73b684ecefee0052.rlib: /Users/mariusmidtskogen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.1/src/lib.rs /Users/mariusmidtskogen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.1/src/ascii.rs /Users/mariusmidtskogen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.1/src/unicode/mod.rs /Users/mariusmidtskogen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.1/src/unicode/map.rs
+
+/Users/mariusmidtskogen/Documents/GitHub/eksamen2024/target/debug/deps/unicase-73b684ecefee0052.d: /Users/mariusmidtskogen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.1/src/lib.rs /Users/mariusmidtskogen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.1/src/ascii.rs /Users/mariusmidtskogen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.1/src/unicode/mod.rs /Users/mariusmidtskogen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.1/src/unicode/map.rs
+
+/Users/mariusmidtskogen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.1/src/lib.rs:
+/Users/mariusmidtskogen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.1/src/ascii.rs:
+/Users/mariusmidtskogen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.1/src/unicode/mod.rs:
+/Users/mariusmidtskogen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.1/src/unicode/map.rs:
