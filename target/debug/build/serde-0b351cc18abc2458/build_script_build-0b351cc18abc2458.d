@@ -1,0 +1,5 @@
+/Users/mariusmidtskogen/Documents/GitHub/eksamen2024/target/debug/build/serde-0b351cc18abc2458/build_script_build-0b351cc18abc2458: /Users/mariusmidtskogen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.217/build.rs
+
+/Users/mariusmidtskogen/Documents/GitHub/eksamen2024/target/debug/build/serde-0b351cc18abc2458/build_script_build-0b351cc18abc2458.d: /Users/mariusmidtskogen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.217/build.rs
+
+/Users/mariusmidtskogen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.217/build.rs:
